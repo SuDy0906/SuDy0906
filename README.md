@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SuDy0906
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning MERN Stack, Docker and Kubernetes, SQL, etc.
+- 🌱 I’m currently learning MERN Stack, Linux, SQL, etc.
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me email: imsuryadeepsingh0911@gmail.com
 - 😄 Pronouns: He/Him
