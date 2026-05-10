@@ -148,27 +148,12 @@ End-to-end pipeline: **custom dataset creation**, annotation, model training, an
 
 </div>
 
----
-
-## 🤝 Open Source Contributions
-
-<div align="center">
-
-| 📦 Repository | 🔨 Contribution | 🔗 Pull Request |
-|:---:|:---|:---:|
-| **Django** | Bug fixes & documentation improvements | [#19296](https://github.com/django/django/pull/19296) |
-| *Add your PRs here* | | |
-
-</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SuDy0906&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuDy0906&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuDy0906&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -186,13 +171,7 @@ End-to-end pipeline: **custom dataset creation**, annotation, model training, an
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuDy0906&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SuDy0906/SuDy0906/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SuDy0906/SuDy0906/output/github-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/SuDy0906/SuDy0906/output/github-snake-dark.svg"/>
-  </picture>
-</p>
+
 
 ---
 
